@@ -1,0 +1,43 @@
+# Compiled object files
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+
+# Build and dependency directories
+/build/
+/.pio/
+.ccls-cache/
+.vscode/
+.idea/
+
+# Arduino
+*.ino.cpp
+*.ino.d
+*.ino.elf
+
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Documents and Reports
+*.pdf
+*.docx
+*.pptx
+
+# GitHub-specific
+.env
+secrets.txt
